@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/kevindev64/kevindev64/img/logo.png" align="center" style="width: 100%" />
-</div>  
+![logo](https://github.com/kevindev64/kevindev64/blob/main/image.png?raw=true)
   
 
 ### <div align="center">Hello, I'm KevinDev64, a full stack developer 👨‍💻 working hard since 2022 🚀</div>  
