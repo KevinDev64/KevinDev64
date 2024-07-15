@@ -4,7 +4,7 @@
 ### <div align="center">Hello, I'm KevinDev64, a full stack developer 👨‍💻 working hard since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [shop-agent](https://github.com/kevindev64/shop-agent)  
+- 🔭 I’m currently working on [Sirius-2024-ML](https://github.com/Sirius-2024-AI/ml)  
   
 
 - 🌱 I’m currently learning Kubernetes and CI/CD  
