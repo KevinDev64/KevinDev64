@@ -4,16 +4,10 @@
 ### <div align="center">Hello, I'm KevinDev64, a DevOps-engineer 👨‍💻 working hard since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Sirius-2024-ML](https://github.com/Sirius-2024-AI/ml)  
+- 🌱 I’m currently learning Kubernetes and CI/CD  + Rust
   
 
-- 🌱 I’m currently learning Kubernetes and CI/CD  
-  
-
-- ❓ Ask me about anything related to DevOps and Backend stack and related technologies  
-  
-
-- ⚡ Fun fact: I'm using block cursor style in vscode  
+- ❓ Ask me about anything related to DevOps and Rust
   
 
 <br/>  
@@ -26,7 +20,7 @@
 
 
 
-### Backend  
+### Servers + Hardware 
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -37,6 +31,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" alt="Rust" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="50%">
